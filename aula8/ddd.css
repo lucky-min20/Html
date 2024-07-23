@@ -1,0 +1,53 @@
+body{
+    font-family: Arial;
+}
+
+#topo{
+    height: 199px;
+    width: 1300px;
+    background-color: rgba(56, 2, 56, 0.795);
+    padding: 1px;
+    margin: auto;
+}
+#logo{
+    height: 150px;
+    width: 300px;
+    background-color: rgba(90, 87, 87, 0.836);
+    margin: auto;
+}
+#menu{
+    height: 70px;
+    width: 1300px;
+    background-color: darkgreen;
+    margin: auto;
+}
+#banner{
+    height: 500px;
+    width: 1300px;
+    background-color: darkblue;
+    margin: auto;
+}
+#cont{
+    height: 600px;
+    width: 1300px;
+    background-color: rgba(6, 88, 88, 0.904);
+    margin: auto;
+}
+.itemcont2{
+    height: 580px;
+    width: 420px;
+    background-color: rgb(90, 89, 89);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+
+   }
+
+    #rodapé{
+    height: 200px;
+    width: 1300px;
+    background-color: chocolate;
+    margin: auto;
+}
+
+.centro{text-align: center;}

@@ -1,0 +1,14 @@
+body{
+    font-family: Arial;
+    background-color: rgb(70, 69, 69);
+    
+}
+.quadrado{
+    list-style-type: square;
+}
+.romano{
+    list-style-type: lower-roman;
+}
+.circulo{
+    list-style-type: circle;
+}

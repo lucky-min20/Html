@@ -1,0 +1,8 @@
+body{
+    font-family: arial;
+    background-color: rgba(50, 118, 160, 0.774);
+    color: rgb(129, 25, 25);
+    margin: 50px;
+}
+.centro{text-align: center;}
+.direita{text-align: right;}
